@@ -1,0 +1,6 @@
+---
+
+  - name: Create public network
+    docker_network:
+      name: "{{ public_network_name }}"
+      driver: overlay

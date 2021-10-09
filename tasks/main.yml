@@ -1,2 +1,5 @@
 ---
-# tasks file for de
+
+  - include_tasks: swarm.yml
+
+  - include_tasks: network.yml

@@ -1,2 +1,3 @@
 ---
-# defaults file for de
+
+  public_network_name: public
